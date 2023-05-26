@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Othello_AI_Player
 {
-    public partial class Form1 : Form
+    public partial class TwoPlayersWindow : GameWindow
     {
-        public Form1()
+        public TwoPlayersWindow()
         {
             InitializeComponent();
         }

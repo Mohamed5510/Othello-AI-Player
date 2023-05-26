@@ -1,0 +1,12 @@
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\bin\Debug\Othello AI Player.exe.config
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\bin\Debug\Othello AI Player.exe
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\bin\Debug\Othello AI Player.pdb
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello AI Player.csproj.AssemblyReference.cache
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello AI Player.csproj.SuggestedBindingRedirects.cache
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello_AI_Player.MainWindow.resources
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello_AI_Player.Properties.Resources.resources
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello AI Player.csproj.GenerateResource.cache
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello AI Player.csproj.CoreCompileInputs.cache
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello AI Player.exe
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello AI Player.pdb
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello_AI_Player.GameWindow.resources
