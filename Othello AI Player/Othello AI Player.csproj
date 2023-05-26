@@ -46,7 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\Class1.cs" />
+    <Compile Include="Classes\Board.cs" />
+    <Compile Include="Classes\Game.cs" />
+    <Compile Include="Classes\GameRules.cs" />
+    <Compile Include="Classes\Player.cs" />
+    <Compile Include="OnePlayerChooseLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OnePlayerChooseLevel.Designer.cs">
+      <DependentUpon>OnePlayerChooseLevel.cs</DependentUpon>
+    </Compile>
     <Compile Include="OnePlayerWindow.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,6 +82,12 @@
     <Compile Include="TwoPlayersWindow.Designer.cs">
       <DependentUpon>TwoPlayersWindow.cs</DependentUpon>
     </Compile>
+    <Compile Include="ZeroPlayersChooseLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZeroPlayersChooseLevel.Designer.cs">
+      <DependentUpon>ZeroPlayersChooseLevel.cs</DependentUpon>
+    </Compile>
     <Compile Include="ZeroPlayersWindow.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,6 +100,9 @@
     <EmbeddedResource Include="MainWindow.resx">
       <DependentUpon>MainWindow.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="OnePlayerChooseLevel.resx">
+      <DependentUpon>OnePlayerChooseLevel.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -94,6 +112,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ZeroPlayersChooseLevel.resx">
+      <DependentUpon>ZeroPlayersChooseLevel.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

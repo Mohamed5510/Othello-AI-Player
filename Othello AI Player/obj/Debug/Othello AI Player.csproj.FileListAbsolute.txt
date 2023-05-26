@@ -10,3 +10,5 @@ F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\
 F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello AI Player.exe
 F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello AI Player.pdb
 F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello_AI_Player.GameWindow.resources
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello_AI_Player.OnePlayerChooseLevel.resources
+F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello_AI_Player.ZeroPlayersChooseLevel.resources

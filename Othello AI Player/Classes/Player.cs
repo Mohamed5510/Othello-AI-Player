@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Othello_AI_Player.Classes
 {
-    internal class Class1
+    internal class Player
     {
     }
 }
