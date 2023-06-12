@@ -1,4 +1,4 @@
-using Ex05.WindowsFormsUI;
+﻿using Ex05.WindowsFormsUI;
 using Othello_AI_Player.Classes;
 using System;
 using System.Collections.Generic;
@@ -139,7 +139,7 @@ Continue Playing?",
 
         public void endGame(string i_DialogMessage)
         {
-            DialogResult dialogResult = MessageBox.Show(i_DialogMessage, "Othello", MessageBoxButtons.YesNo);
+            DialogResult dialogResult = MessageBox.Show(i_DialogMessage, "Othello Game", MessageBoxButtons.YesNo);
 
             if (dialogResult == DialogResult.Yes)
             {

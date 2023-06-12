@@ -1,4 +1,4 @@
-namespace Othello_AI_Player
+﻿namespace Othello_AI_Player
 {
     partial class ZeroPlayersChooseLevel
     {
@@ -41,23 +41,23 @@ namespace Othello_AI_Player
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(61, 121);
+            this.label1.Location = new System.Drawing.Point(470, 116);
             this.label1.Name = "label1";
             this.label1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label1.Size = new System.Drawing.Size(235, 25);
+            this.label1.Size = new System.Drawing.Size(240, 25);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Choose Computer1 Level";
+            this.label1.Text = "Choose Computer 2 Level";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.Gold;
-            this.label2.Location = new System.Drawing.Point(445, 121);
+            this.label2.ForeColor = System.Drawing.Color.Goldenrod;
+            this.label2.Location = new System.Drawing.Point(52, 116);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(240, 25);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Choose Computer 2 Level";
+            this.label2.Text = "Choose Computer 1 Level";
             // 
             // comboBox1
             // 
@@ -72,7 +72,7 @@ namespace Othello_AI_Player
             // 
             this.comboBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(513, 173);
+            this.comboBox2.Location = new System.Drawing.Point(527, 173);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(121, 24);
             this.comboBox2.TabIndex = 3;
@@ -124,7 +124,7 @@ namespace Othello_AI_Player
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MaximizeBox = false;
             this.Name = "ZeroPlayersChooseLevel";
-            this.Text = "Choose Level";
+            this.Text = "Choose Levels";
             this.ResumeLayout(false);
             this.PerformLayout();
 

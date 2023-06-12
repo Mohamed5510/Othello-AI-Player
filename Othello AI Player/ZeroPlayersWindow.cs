@@ -1,4 +1,4 @@
-using Ex05.WindowsFormsUI;
+﻿using Ex05.WindowsFormsUI;
 using Othello_AI_Player.Classes;
 using System;
 using System.Collections.Generic;
@@ -24,8 +24,8 @@ namespace Othello_AI_Player
         private void startNewGame(int comp1_level, int comp2_level)
         {
             players = new Player[2];
-            players[0] = new Player("Computer1", Position_Color.BLACK);
-            players[1] = new Player("Computer2", Position_Color.WHITE);
+            players[0] = new Player("Computer1", Position_Color.WHITE);
+            players[1] = new Player("Computer2", Position_Color.BLACK);
             currentPlayer = players[0];
             game = new Game(players, comp1_level, comp2_level);
             printGameBoard();

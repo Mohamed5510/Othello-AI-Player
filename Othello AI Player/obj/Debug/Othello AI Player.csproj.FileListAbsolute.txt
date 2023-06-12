@@ -12,3 +12,53 @@ F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\
 F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello_AI_Player.GameWindow.resources
 F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello_AI_Player.OnePlayerChooseLevel.resources
 F:\Studying\4th CSE\2nd term\AI\Project\Othello-AI-Player\Othello AI Player\obj\Debug\Othello_AI_Player.ZeroPlayersChooseLevel.resources
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\bin\Debug\Othello AI Player.exe.config
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\bin\Debug\Othello AI Player.exe
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\bin\Debug\Othello AI Player.pdb
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.csproj.AssemblyReference.cache
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.csproj.SuggestedBindingRedirects.cache
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.GameWindow.resources
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.MainWindow.resources
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.OnePlayerChooseLevel.resources
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.Properties.Resources.resources
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.ZeroPlayersChooseLevel.resources
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.csproj.GenerateResource.cache
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.csproj.CoreCompileInputs.cache
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.exe
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.pdb
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.TwoPlayersWindow.resources
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.OnePlayerWindow.resources
+F:\Studying\4th CSE\2nd term\AI\Project\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.ZeroPlayersWindow.resources
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.csproj.AssemblyReference.cache
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.GameWindow.resources
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.MainWindow.resources
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.OnePlayerChooseLevel.resources
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.OnePlayerWindow.resources
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.Properties.Resources.resources
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.TwoPlayersWindow.resources
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.ZeroPlayersChooseLevel.resources
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.ZeroPlayersWindow.resources
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.csproj.GenerateResource.cache
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.exe
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.pdb
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\bin\Debug\Othello AI Player.exe.config
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\bin\Debug\Othello AI Player.exe
+C:\Users\Mohamed Saad\Desktop\WorkingProject\WorkingProject\Othello AI Player\bin\Debug\Othello AI Player.pdb
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\bin\Debug\Othello AI Player.exe.config
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\bin\Debug\Othello AI Player.exe
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\bin\Debug\Othello AI Player.pdb
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.csproj.AssemblyReference.cache
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.GameWindow.resources
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.MainWindow.resources
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.OnePlayerChooseLevel.resources
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.OnePlayerWindow.resources
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.Properties.Resources.resources
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.TwoPlayersWindow.resources
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.ZeroPlayersChooseLevel.resources
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello_AI_Player.ZeroPlayersWindow.resources
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.csproj.GenerateResource.cache
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.exe
+C:\Users\moham\Downloads\WorkingProject\WorkingProject\Othello AI Player\obj\Debug\Othello AI Player.pdb

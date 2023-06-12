@@ -1,4 +1,4 @@
-namespace Othello_AI_Player
+﻿namespace Othello_AI_Player
 {
     partial class GameWindow
     {

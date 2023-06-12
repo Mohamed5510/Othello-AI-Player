@@ -12,6 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -50,6 +51,7 @@
     <Compile Include="Classes\Game.cs" />
     <Compile Include="Classes\GameRules.cs" />
     <Compile Include="Classes\Player.cs" />
+    <Compile Include="Classes\Helper.cs" />
     <Compile Include="OnePlayerChooseLevel.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,6 +75,9 @@
     </Compile>
     <Compile Include="MainWindow.Designer.cs">
       <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PictureBoxBoard.cs">
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -103,6 +108,9 @@
     <EmbeddedResource Include="OnePlayerChooseLevel.resx">
       <DependentUpon>OnePlayerChooseLevel.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="OnePlayerWindow.resx">
+      <DependentUpon>OnePlayerWindow.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -111,9 +119,16 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="TwoPlayersWindow.resx">
+      <DependentUpon>TwoPlayersWindow.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ZeroPlayersChooseLevel.resx">
       <DependentUpon>ZeroPlayersChooseLevel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZeroPlayersWindow.resx">
+      <DependentUpon>ZeroPlayersWindow.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -127,6 +142,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin-money-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\426-4263670_gold-coins-png-image-transparent-coin-vector-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6-AI-Implementation-Challenges-And-How-To-Overcome-Them-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gg.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
